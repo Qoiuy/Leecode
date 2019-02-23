@@ -1,4 +1,4 @@
-package reverse_Linked_List;
+package list.reverseLinkedList;
 
 
  class ListNode {
