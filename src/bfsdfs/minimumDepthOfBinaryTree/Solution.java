@@ -1,5 +1,7 @@
 package bfsdfs.minimumDepthOfBinaryTree;
 
+import sun.text.normalizer.Trie;
+
 class TreeNode {
     int val;
     TreeNode left;
