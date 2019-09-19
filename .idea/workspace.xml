@@ -2,7 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ce22ee-440e-4a88-913b-a54fe673ce7c" name="Default Changelist" comment="更新 idea 配置文件">
+      <change afterPath="$PROJECT_DIR$/src/P_1108_IP_地址无效化/Description.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/P_1108_IP_地址无效化/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_538_Convert_BST_to_Greater_Tree/Ac_code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/Ac_code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/412_Fizz_Buzz/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/412_Fizz_Buzz/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_100_Same_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_100_Same_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_226_Invert_Binary_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_226_Invert_Binary_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_226_Invert_Binary_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_344_Reverse_String/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_344_Reverse_String/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_500_Keyboard_Row/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_500_Keyboard_Row/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_500_Keyboard_Row/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_538_Convert BST to Greater Tree/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_538_Convert BST to Greater Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_538_Convert BST to Greater Tree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/_538_Convert_BST_to_Greater_Tree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_557_Reverse_Words_in_a_String_III/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_557_Reverse_Words_in_a_String_III/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_557_Reverse_Words_in_a_String_III/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_563_Binary_Tree_Tilt/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_563_Binary_Tree_Tilt/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_563_Binary_Tree_Tilt/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_606_Construct_String_from_Binary_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_606_Construct_String_from_Binary_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_606_Construct_String_from_Binary_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_637_Average_of_Levels_in_Binary_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_637_Average_of_Levels_in_Binary_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_653_Two_Sum_IV_-_Input_is_a_BST/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_653_Two_Sum_IV_-_Input_is_a_BST/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_653_Two_Sum_IV_-_Input_is_a_BST/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_669_Trim_a_Binary_Search_Tree/Ac_code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_669_Trim_a_Binary_Search_Tree/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Ac_code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Ac_code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,15 +72,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/out/production/LeeCode20190218/com/xijian/test1/Solution.class">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bitwiseComplement/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/_500_Keyboard_Row/Ac_code.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
+            <state relative-caret-position="75">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,82 +84,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/numPairsDivisibleBy60/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" selection-start-line="9" selection-start-column="4" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shipWithinDays/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_771_宝石与石头/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_771_宝石与石头/Description.md">
+        <entry file="file://$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="60">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-              </first_editor>
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_669_Trim_a_Binary_Search_Tree/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Ac_code.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Ac_code.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Ac_code.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="19" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/P_1108_IP_地址无效化/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Ac_code.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="15">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/numDupDigitsAtMostN/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Ac_code.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="37" column="5" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="37" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bfsdfs/binaryTreeLevelOrderTraversal/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -167,22 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/reverse_Linked_List/Solution.java" />
-        <option value="$PROJECT_DIR$/src/tmpCalculNumber/Result.java" />
-        <option value="$PROJECT_DIR$/src/swap_nodes_in_pairs/Solution.java" />
-        <option value="$PROJECT_DIR$/src/list/swap_nodes_in_pairs/Solution.java" />
-        <option value="$PROJECT_DIR$/src/list/swapNodesInPairs/Solution.java" />
-        <option value="$PROJECT_DIR$/src/list/reverseLinkedList/Solution.java" />
-        <option value="$PROJECT_DIR$/src/list/linkedListCycle/Solution.java" />
-        <option value="$PROJECT_DIR$/src/list/linkedListCycle2/Solution.java" />
-        <option value="$PROJECT_DIR$/src/stack/validParentheses/Solution.java" />
-        <option value="$PROJECT_DIR$/src/stack/implementQueueUsingStacks/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/queue/implementStackUsingQueues/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/priorityQueue/kthLargestElementInAStream/KthLargest.java" />
-        <option value="$PROJECT_DIR$/src/java/util/PriorityQueue.java" />
-        <option value="$PROJECT_DIR$/src/priorityQueue/slidingWindowMaximum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/deque/slidingWindowMaximum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/hashmap/validAnagram/Solution.java" />
         <option value="$PROJECT_DIR$/src/hashmap/twoSum/Solution.java" />
         <option value="$PROJECT_DIR$/src/hashmap/threeSum/Solution.java" />
         <option value="$PROJECT_DIR$/src/tree/validateBinarySearchTree/Solution.java" />
@@ -201,7 +234,39 @@
         <option value="$PROJECT_DIR$/src/numDupDigitsAtMostN/Solution.java" />
         <option value="$PROJECT_DIR$/src/P_771_宝石与石头/Description.md" />
         <option value="$PROJECT_DIR$/src/P_771_宝石与石头/Solution.java" />
+        <option value="$PROJECT_DIR$/src/P_1108_IP_地址无效化/Description.md" />
         <option value="$PROJECT_DIR$/src/P_1108_IP_地址无效化/Solution.java" />
+        <option value="$PROJECT_DIR$/src/_226_Invert_Binary_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_637_Average_of_Levels_in_Binary_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_100_Same_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_653_Two_Sum_IV_-_Input_is_a_BST/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_653_Two_Sum_IV_-_Input_is_a_BST/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_500_Keyboard_Row/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_606_Construct_String_from_Binary_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_557_Reverse_Words_in_a_String_III/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_538_Convert BST to Greater Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Demo.java" />
+        <option value="$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_538_Convert_BST_to_Greater_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_563_Binary_Tree_Tilt/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Ac_code.java" />
+        <option value="$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Ac_code.java" />
       </list>
     </option>
   </component>
@@ -244,7 +309,127 @@
               <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="P_1108_IP_地址无效化" type="462c0819:PsiDirectoryNode" />
+              <item name="412_Fizz_Buzz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_100_Same_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_104_Maximum_Depth_of_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_107_Binary_Tree_Level_Order_Traversal_II" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_108_Convert_Sorted_Array_to_Binary_Search_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_226_Invert_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_344_Reverse_String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_500_Keyboard_Row" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_521_Longest_Uncommon_Subsequence_I" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_538_Convert_BST_to_Greater_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_543_Diameter_of_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_557_Reverse_Words_in_a_String_III" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_563_Binary_Tree_Tilt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_572_Subtree_of_Another_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_606_Construct_String_from_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_617_Merge_Two_Binary_Trees" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_637_Average_of_Levels_in_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_653_Two_Sum_IV__Input_is_a_BST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_669_Trim_a_Binary_Search_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_671_Second_Minimum_Node_In_a_Binary_Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_771_宝石与石头" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,6 +444,12 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552800977724" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -285,13 +476,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Ac_code">
+    <configuration name="Ac_code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ac_code" />
+      <module name="LeeCode20190218" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shipWithinDays.Solution" />
       <module name="LeeCode20190218" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="shipWithinDays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P_1108_IP_地址无效化.Solution" />
+      <module name="LeeCode20190218" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P_1108_IP_地址无效化.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,46 +536,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestImmutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xijian.TestImmutable" />
-      <module name="LeeCode20190218" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xijian.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trie.implementTriePrefixTree.Trie" />
-      <module name="LeeCode20190218" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trie.implementTriePrefixTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Trie" />
-      <item itemvalue="Application.TestImmutable" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Ac_code" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ac_code" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.TestImmutable" />
-        <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +574,7 @@
       <workItem from="1551337037590" duration="2150000" />
       <workItem from="1551424699734" duration="40721000" />
       <workItem from="1552790884859" duration="7521000" />
-      <workItem from="1568882750618" duration="1310000" />
+      <workItem from="1568882750618" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="2019-09-19 04:47  把之前做的内容汇总一下。">
       <created>1568882885093</created>
@@ -419,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568884210069</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新 idea 配置文件">
+      <created>1568884335370</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568884335370</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106643000" />
+    <option name="totallyTimeSpent" value="107647000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,7 +630,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49551168" visible="true" weight="0.25250357" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49551168" visible="true" weight="0.25250357" />
       <window_info id="Structure" order="1" sideWeight="0.50448835" side_tool="true" weight="0.25250357" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +649,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32902467" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32891566" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -555,165 +747,373 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/io/Serializable.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringCoding.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/AbstractStringBuilder.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuffer.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/StringBuilder.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/AccessibleObject.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Integer.java" />
-    <entry file="file://$PROJECT_DIR$/src/tmpCalculNumber/Result.java">
+    <entry file="file://$PROJECT_DIR$/src/_637_Average_of_Levels_in_Binary_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_653_Two_Sum_IV__Input_is_a_BST/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_563_Binary_Tree_Tilt/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_606_Construct_String_from_Binary_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/Ac_code.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list/linkedListCycle/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/BTNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-397">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/list/swapNodesInPairs/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/BinTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-947">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/priorityQueue/kthLargestElementInAStream/KthLargest.java">
+    <entry file="file://$PROJECT_DIR$/src/_617_Merge_Two_Binary_Trees/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/java/util/AbstractMap.class" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Deque.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collections.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TimSort.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArraysParallelSortHelpers.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collection.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/nio/Buffer.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/lib/sa-jdi.jar!/sun/jvm/hotspot/ui/JavaThreadsPanel.class" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Contended.class" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentMap.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/LeeCode20190218/com/xijian/Test.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/LeeCode20190218/com/xijian/test1/Node.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/LeeCode20190218/com/xijian/test1/Solution.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bitwiseComplement/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/_557_Reverse_Words_in_a_String_III/Ac_code.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="23" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/numPairsDivisibleBy60/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="9" selection-start-column="4" selection-end-line="35" />
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_000_Copy_This_Package/Ac_code.java">
+    <entry file="file://$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_521_Longest_Uncommon_Subsequence_I/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_404_Sum_of_Left_Leaves/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/412_Fizz_Buzz/Ac_code.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/numDupDigitsAtMostN/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/412_Fizz_Buzz/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bfsdfs/binaryTreeLevelOrderTraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shipWithinDays/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_771_宝石与石头/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_771_宝石与石头/Description.md">
+    <entry file="file://$PROJECT_DIR$/src/412_Fizz_Buzz/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P_1108_IP_地址无效化/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/_538_Convert BST to Greater Tree/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_538_Convert_BST_to_Greater_Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_538_Convert_BST_to_Greater_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_563_Binary_Tree_Tilt/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_104_Maximum_Depth_of_Binary_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="11" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_344_Reverse_String/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_344_Reverse_String/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_344_Reverse_String/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_500_Keyboard_Row/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_500_Keyboard_Row/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_669_Trim_a_Binary_Search_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_669_Trim_a_Binary_Search_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_572_Subtree_of_Another_Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_669_Trim_a_Binary_Search_Tree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_107_Binary_Tree_Level_Order_Traversal_II/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_557_Reverse_Words_in_a_String_III/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_606_Construct_String_from_Binary_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_226_Invert_Binary_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_530_Minimum_Absolute_Difference_in_BST/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_543_Diameter_of_Binary_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_108_Convert_Sorted_Array_to_Binary_Search_Tree/Ac_code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
