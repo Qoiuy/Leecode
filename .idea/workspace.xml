@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2ce22ee-440e-4a88-913b-a54fe673ce7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P_938_二叉搜索树的范围和/Description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P_938_二叉搜索树的范围和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P_595_大的国家/Description.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,26 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="LeeCode20190218" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/P_1108_IP_地址无效化/Description.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P_237_删除链表中的节点/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -64,12 +50,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P_938_二叉搜索树的范围和/Description.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="120">
                 <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P_595_大的国家/Description.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -174,7 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bfsdfs/binaryTreeLevelOrderTraversal/Solution.java" />
         <option value="$PROJECT_DIR$/src/bfsdfs/maximumDepthOfBinaryTree/Solution.java" />
         <option value="$PROJECT_DIR$/src/bfsdfs/minimumDepthOfBinaryTree/Solution.java" />
         <option value="$PROJECT_DIR$/src/trie/implementTriePrefixTree/Trie.java" />
@@ -225,6 +222,7 @@
         <option value="$PROJECT_DIR$/src/P_182_查找重复的电子邮箱/Description.md" />
         <option value="$PROJECT_DIR$/src/P_938_二叉搜索树的范围和/Solution.java" />
         <option value="$PROJECT_DIR$/src/P_938_二叉搜索树的范围和/Description.md" />
+        <option value="$PROJECT_DIR$/src/P_595_大的国家/Description.md" />
       </list>
     </option>
   </component>
@@ -266,6 +264,12 @@
               <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="P_237_删除链表中的节点" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeeCode20190218" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P_595_大的国家" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeeCode20190218" type="b2602c69:ProjectViewProjectNode" />
@@ -431,7 +435,7 @@
       <workItem from="1551424699734" duration="40721000" />
       <workItem from="1552790884859" duration="7521000" />
       <workItem from="1568882750618" duration="4337000" />
-      <workItem from="1568941276109" duration="617000" />
+      <workItem from="1568941276109" duration="1051000" />
     </task>
     <task id="LOCAL-00001" summary="2019-09-19 04:47  把之前做的内容汇总一下。">
       <created>1568882885093</created>
@@ -496,11 +500,18 @@
       <option name="project" value="LOCAL" />
       <updated>1568887044047</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AC 938">
+      <created>1568941952981</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568941952981</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110287000" />
+    <option name="totallyTimeSpent" value="110721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -531,7 +542,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49785408" weight="0.82530123" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50214595" side_tool="true" weight="0.82530123" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -629,7 +640,8 @@
     <MESSAGE value="AC 1108" />
     <MESSAGE value="AC 237" />
     <MESSAGE value="AC 182" />
-    <option name="LAST_COMMIT_MESSAGE" value="AC 182" />
+    <MESSAGE value="AC 938" />
+    <option name="LAST_COMMIT_MESSAGE" value="AC 938" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -650,13 +662,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_671_Second_Minimum_Node_In_a_Binary_Tree/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -932,6 +937,16 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="120">
             <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P_595_大的国家/Description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
