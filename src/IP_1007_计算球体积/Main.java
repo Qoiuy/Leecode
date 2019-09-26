@@ -18,7 +18,7 @@ public class Main {
     }
 
     private static Double calculateBall(double r) {
-        double aDouble = 3.1415927F;
+        double aDouble = 3.1415927;
         return 4 * aDouble * r * r * r / 3.0;
     }
 
