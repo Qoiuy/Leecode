@@ -16,17 +16,14 @@ public class Solution {
         if (root == null){
             return null;
         }
-
         if (root.val < L){
-            return trimBST(root.left, L, R);
-        }else if (R < root.val){
             return trimBST(root.right, L, R);
+        }else if (R < root.val){
+            return trimBST(root.left, L, R);
         }
         root.left = trimBST(root.left, L, R);
         root.right = trimBST(root.right, L, R);
         return root;
-
-
 
     }
 
