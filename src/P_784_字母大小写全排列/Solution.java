@@ -3,32 +3,37 @@ package P_784_字母大小写全排列;
 import com.sun.tools.classfile.ConstantPool;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Solution {
 
-    static List<String> result = new ArrayList<>();
+    List<String> result = new ArrayList<>();
+    Map<Integer, Integer> position = new HashMap<>();
 
-    public static List<String> letterCasePermutation(String S) {
+    public List<String> letterCasePermutation(String S) {
 
-//        Character[] characters = new Character[S.length()];
-//
-//        char[] chars = S.toCharArray();
-//        for (int i = 0; i < characters.length; i++) {
-//            res1.add(change(chars, i));
-//        }
+        char[] chars = S.toCharArray();
 
-        handleData(S.toCharArray(), S.length());
+        int count = 0;
+        for (int i = 0; i < chars.length; i++) {
+            if ((chars[i] >= 'a' && chars[i] <= 'z') || chars[i] >= 'A' && chars[i] <= 'Z') {
+                position.put(count++, i);
+            }
+        }
+
+        handleData(chars, position.size());
         result.add(S);
         return result;
     }
 
-    public static void handleData(char[] chars, int i){
-//        System.out.println("i:" + i);
-        if (i == 0){
+    public void handleData(char[] chars, int i) {
+
+        if (i == 0) {
             return;
         }
-        if ( i == 1){
+        if (i == 1) {
             change(chars, 0);
             return;
         }
@@ -39,7 +44,8 @@ public class Solution {
 
     }
 
-    private static void change(char[] chars, int i) {
+    private void change(char[] chars, int i) {
+        i = position.get(i);
 
         if (chars[i] >= 'a' && chars[i] <= 'z') {
             chars[i] = (char) (chars[i] - 32);
@@ -52,9 +58,8 @@ public class Solution {
 
     public static void main(String[] args) {
 
-        String s = "abcd";
-
-        System.out.println(letterCasePermutation(s).toString());
+        System.out.println(new Solution().letterCasePermutation("a1b2").toString());
+        System.out.println(new Solution().letterCasePermutation("12345").toString());
 
     }
 
