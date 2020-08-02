@@ -66,37 +66,32 @@ public class Solution {
      */
     private String intToBitChar(int num) {
         StringBuffer sb = new StringBuffer();
-        StringBuffer sbTmp = new StringBuffer();
-
-        //  负数可以 用flag的方式判断处理
+        // 立一个负数的flag
+        boolean flag = (num < 0);
 
         //absNum 作为绝对值 后的num进行二进制操作。
         int absNum = Math.abs(num);
 
-        // 取反加一   >>>> 加一
-        if (num < 0){
-            absNum = absNum - 1;
-        }
+        // 取反加一   >>>> 加一操作
+        absNum = flag ? absNum - 1 : absNum;
 
-        if (absNum == 0){
-            sbTmp.append('0');
-        }
+        // 极限值0的处理
+        sb.append(absNum == 0 ? (flag ? '1':'0') : "");
 
         // 计算二进制
         while (absNum >= 1){
-            sbTmp.append(absNum % 2 == 0 ? '0' : '1');
+            //(flag ? '1': '0') 取反加一   >>>> 取反操作
+            sb.append(absNum % 2 == 0 ? (flag ? '1': '0') : (flag ? '0' : '1'));
             absNum = absNum >> 1;
         }
-        //取反操作
-        for (char c : sbTmp.toString().toCharArray()){
-            sb.append(num < 0 ? (char)('1' + '0' - c) : c);
-        }
 
-        if (num < 0){
+        // 负数补全32位
+        if (flag) {
             while (sb.length() < 32){
                 sb.append('1');
             }
         }
+
         return sb.reverse().toString();
     }
 
@@ -108,10 +103,11 @@ public class Solution {
 //        System.out.print(" " + new Solution().toHex(2));
 //        System.out.println(new Solution().toHex(-3));
 //        System.out.println(new Solution().toHex(8));
-        for (int i = -1; i >=-20; i--){
-            System.out.println(new Solution().toHex(i));
-        }
+//        for (int i = -1; i >=-20; i--){
+//            System.out.println(new Solution().toHex(i));
+//        }
 
+        System.out.println(new Solution().toHex(-1));
 //        System.out.println(new Solution().toHex(4294967295));
     }
 }
