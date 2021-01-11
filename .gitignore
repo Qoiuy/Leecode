@@ -2,3 +2,5 @@ out
 idea
 .idea
 .idea/
+java-design-patterns/target/
+java-design-patterns/java-design-patterns.iml
